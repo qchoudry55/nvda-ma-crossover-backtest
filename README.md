@@ -18,6 +18,7 @@ From this project, I investingated the following metrics: total return, max draw
 | Number of Trades | 3 | 1 |
 
 The moving-average strategy modestly outperformed the buy-and-hold strategy, largely by staying in cash during a relatively flat/choppy stretch in 2018–2019 and avoiding part of the 2022 downturn, before capturing the bulk of NVIDIA's 2023–2024 rally.
+
 The buy-and-hold strategy has a period of no growth at all from 2022-2023 - this is because the assets have been sold and now the value of the cash is not fluctuating with the market at all until assets from NVIDIA are bought again at the start of 2023 and the fluctuations in value resume.
 
 ![Strategy vs Buy and Hold](strategy_vs_buyhold.png)
