@@ -38,7 +38,7 @@ The buy-and-hold strategy has a period of no growth at all from 2022-2023 - this
 6. **Max drawdown:** calculated as the largest peak-to-trough decline in the strategy's cumulative growth curve.
 
 
-## Tech Dependencies To Run The Project
+## Dependencies
 
 - Python
 - pandas
