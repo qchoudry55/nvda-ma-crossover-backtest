@@ -9,7 +9,7 @@ NVIDIA (nvda) data was chosen for this project because it gave an overarching st
 
 ## Results 
 
-From this project, I investingated the following metrics: total return, max drawdown and number of trades - this was done for both a moving-average strategy and buy-and-hold strategy.  The results of this project are as follows:
+From this project, I investigated the following metrics: total return, max drawdown and number of trades - this was done for both a moving-average strategy and buy-and-hold strategy.  The results of this project are as follows:
 
 | Metric | Moving-Average Strategy | Buy-and-Hold |
 |---|---|---|
