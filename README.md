@@ -9,7 +9,7 @@ NVIDIA (nvda) data was chosen for this project because it gave an overarching st
 
 ## Results 
 
-From this project, I investingated the following metrics: total return, max drawdown and number of trades - this was done for both a moving-average strategy and buy-and-hold strategy.  The results of this project are as follows:
+From this project, I investigated the following metrics: total return, max drawdown and number of trades - this was done for both a moving-average strategy and buy-and-hold strategy.  The results of this project are as follows:
 
 | Metric | Moving-Average Strategy | Buy-and-Hold |
 |---|---|---|
@@ -18,6 +18,7 @@ From this project, I investingated the following metrics: total return, max draw
 | Number of Trades | 3 | 1 |
 
 The moving-average strategy modestly outperformed the buy-and-hold strategy, largely by staying in cash during a relatively flat/choppy stretch in 2018–2019 and avoiding part of the 2022 downturn, before capturing the bulk of NVIDIA's 2023–2024 rally.
+
 
 ![Strategy vs Buy and Hold](strategy_vs_buyhold.png)
 
@@ -36,7 +37,7 @@ The moving-average strategy modestly outperformed the buy-and-hold strategy, lar
 6. **Max drawdown:** calculated as the largest peak-to-trough decline in the strategy's cumulative growth curve.
 
 
-## Tech Dependencies To Run The Project
+## Dependencies
 
 - Python
 - pandas
