@@ -52,7 +52,6 @@ plt.plot(data["Close"])
 plt.title("NVIDIA (NVDA) Closing Price, 2018-2024")
 plt.xlabel("Date")
 plt.ylabel("Closing Price (USD)")
-plt.savefig("nvda_closing_price.png")
 plt.show()
 
 #PLOT MA STRATEGY VS BUY-AND-HOLD ON ONE GRAPH TO SHOW HOW STRATEGIES ARE DIFFERENT
@@ -62,5 +61,4 @@ plt.legend()
 plt.title("NVDA Moving Average Strategy vs Buy and Hold, 2018-2024")
 plt.xlabel("Date")
 plt.ylabel("Growth of £1 Invested")
-plt.savefig("strategy_vs_buyhold.png")
 plt.show()
